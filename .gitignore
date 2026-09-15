@@ -1,0 +1,7 @@
+build/
+.qtcreator/
+*.pro.user
+*.pro.user.*
+*.exe
+debug/
+release/
